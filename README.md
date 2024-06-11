@@ -13,6 +13,5 @@ I am a computer science major at the New Jersey Institute of Technology, passion
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash8088&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yash8088&icon=0&color=12)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=yash8088&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
